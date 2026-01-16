@@ -51,6 +51,6 @@ This project is configured for instant deployment via **GitHub Codespaces**.
 1. Click the Fork button (top right corner).
 2. Click Create fork.
 3. Launch Codespaces.
-4. click the green <> Code button.
+4. Click the green <> Code button.
 5. Select the Codespaces tab.
 6. Click Create codespace on main.
